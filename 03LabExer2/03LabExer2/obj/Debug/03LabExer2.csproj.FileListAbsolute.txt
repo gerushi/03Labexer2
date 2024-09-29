@@ -1,0 +1,10 @@
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\bin\Debug\03LabExer2.exe.config
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\bin\Debug\03LabExer2.exe
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\bin\Debug\03LabExer2.pdb
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\03LabExer2.csproj.AssemblyReference.cache
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\_03LabExer2.frmAddProduct.resources
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\_03LabExer2.Properties.Resources.resources
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\03LabExer2.csproj.GenerateResource.cache
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\03LabExer2.csproj.CoreCompileInputs.cache
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\03LabExer2.exe
+C:\Users\4lanc\Desktop\codes\c#\03LabExer2\03LabExer2\obj\Debug\03LabExer2.pdb
